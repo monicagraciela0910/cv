@@ -15,6 +15,7 @@ h2 {
   text-align: right;
   margin: 50px 20px 50px 0;
   color: #968C83;
+  font-weight: normal;
 }
 
 h3 {
@@ -91,14 +92,20 @@ hr {
 
 .li-informatica {
   line-height: 2;
+  position: relative;
+  left: 25px;
 }
 
 .li-perfil {
   line-height: 2;
+  position: relative;
+  left: 25px;
 }
 
 .li-fortalezas {
   line-height: 2;
+  position: relative;
+  left: 5px;
 }
 
 .fortalezas {
