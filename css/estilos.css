@@ -1,0 +1,107 @@
+body {
+  background-color: #F1F6F9;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Comfortaa', cursive;
+  font-size: 2.5rem;
+  color: #41AEA9;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: right;
+  margin: 50px 20px 50px 0;
+  color: #968C83;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 20px;
+}
+
+hr {
+  width: 80%;
+  background-color: #968C83;
+
+
+}
+
+.td-medio {
+  /*border: 1px solid black;*/
+  padding: 2px;
+}
+
+.header {
+  border-spacing: 20px;
+  margin-left: 200px;
+}
+
+.encabezado-1 {
+  margin: 20px 0 0 150px;
+}
+
+.encabezado-2 {
+  width: 40.5%;
+  margin: 50px 0 50px 150px;
+  line-height: 1.6;
+}
+
+.tabla-medio {
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin: 50px;
+  position: relative;
+  left: 100px;
+}
+
+.ancho-tabla {
+  width: 80%;
+}
+
+
+
+.p-tabla {
+  padding-left: 50px;
+}
+
+.h3-tabla {
+  display: inline-block;
+  position: relative;
+  left: 230px;
+}
+
+.h3-imágenes {
+  display: inline-block;
+  position: relative;
+  left: 240px;
+  top: 5px;
+}
+
+.li-fortalezas::before {
+  content: "✔";
+  padding-right: 8px;
+
+}
+
+.li-informatica {
+  line-height: 2;
+}
+
+.li-perfil {
+  line-height: 2;
+}
+
+.li-fortalezas {
+  line-height: 2;
+}
+
+.fortalezas {
+  position: relative;
+  top: 80px;
+}
