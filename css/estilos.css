@@ -16,6 +16,8 @@ h2 {
   margin: 50px 20px 50px 0;
   color: #968C83;
   font-weight: normal;
+  position: relative;
+  right: 50px;
 }
 
 h3 {
@@ -28,28 +30,36 @@ h3 {
 hr {
   width: 80%;
   background-color: #968C83;
-
-
+  position: relative;
+  left: 0;
 }
 
 .td-medio {
   /*border: 1px solid black;*/
   padding: 2px;
+  position: relative;
+  left: 80px;
 }
 
 .header {
   border-spacing: 20px;
   margin-left: 200px;
+  position: relative;
+  left: 150px;
 }
 
 .encabezado-1 {
   margin: 20px 0 0 150px;
+  position: relative;
+  left: 40px;
 }
 
 .encabezado-2 {
   width: 40.5%;
   margin: 50px 0 50px 150px;
   line-height: 1.6;
+  position: relative;
+  left: 40px;
 }
 
 .tabla-medio {
@@ -58,7 +68,7 @@ hr {
   border: 1px solid black;
   margin: 50px;
   position: relative;
-  left: 100px;
+  left: 140px;
 }
 
 .ancho-tabla {
