@@ -1,0 +1,91 @@
+
+body {
+  font-family: 'Merriweather', serif;
+  color: #FFF;
+}
+
+h1 {
+  font-family: 'Comfortaa', cursive;
+  font-size: 3.5rem;
+  padding-top: 2%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 1%;
+}
+
+h5 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+}
+
+#title {
+  background-color: #FF4C68;
+  color: #FFF;
+}
+
+.nombre {
+  text-align: center;
+  padding: 2%;
+}
+
+.perfil {
+  text-align: center;
+  padding: 2%;
+}
+
+.encabezado-1 {
+  text-align: center;
+  padding: 2%;
+}
+
+.encabezado-2 {
+  padding: 2% 5%;
+}
+
+#habilidades {
+  background-color: #08d9d6;
+}
+
+.habilidades-1 {
+  text-align: center;
+}
+
+
+.fa-forward {
+  padding-right: 1%;
+}
+
+.fa-caret-right {
+  padding-right: 1%;
+}
+
+.fa-check {
+  padding-right: 1%;
+}
+
+.habilidades-2 {
+  text-align: center;
+  padding-top: 0.5%;
+  padding-left: 9%;
+  padding-right: 9%;
+}
+
+.container-fluid {
+  background-color: #00b8a9;
+  text-align: center;
+
+}
+
+.footer {
+  font-family: 'Comfortaa', cursive;
+  font-size: 1.5rem;
+  padding: 2%;
+}
