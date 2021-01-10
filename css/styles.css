@@ -78,14 +78,9 @@ h5 {
   padding-right: 9%;
 }
 
-.footer-1 {
+footer {
   background-color: #00b8a9;
   text-align: center;
-}
-
-.footer {
   font-family: 'Comfortaa', cursive;
   font-size: 1.5rem;
-  
-  margin: 0;
 }
