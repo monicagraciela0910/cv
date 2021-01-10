@@ -4,6 +4,10 @@ body {
   color: #FFF;
 }
 
+.container-fluid {
+  background-color: #FF4C68;
+}
+
 h1 {
   font-family: 'Comfortaa', cursive;
   font-size: 3.5rem;
@@ -81,7 +85,6 @@ h5 {
 .footer-1 {
   background-color: #00b8a9;
   text-align: center;
-
 }
 
 .footer {
