@@ -2,6 +2,7 @@
 body {
   font-family: 'Merriweather', serif;
   color: #FFF;
+  padding: 0;
 }
 
 h1 {
@@ -78,10 +79,14 @@ h5 {
   padding-right: 9%;
 }
 
-footer {
+.footer-1 {
   background-color: #00b8a9;
   text-align: center;
+}
+
+.footer {
   font-family: 'Comfortaa', cursive;
   font-size: 1.5rem;
-  margin-right: 0;
+  padding: 2%;
+  margin: 0;
 }
